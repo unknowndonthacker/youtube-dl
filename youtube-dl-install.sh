@@ -6,3 +6,4 @@ sudo youtube-dl -U
 echo "instalação finalizada com sucesso"
 mkdir ~/.config/youtube-dl
 touch ~/.config/youtube-dl/config
+cp config ~/.config/youtube-dl/
